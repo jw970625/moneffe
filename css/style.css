@@ -568,8 +568,8 @@ button:hover{
 #s5{
   height: 1500px;
   background: url(../image/moneffe-bg2.jpg) no-repeat center/cover fixed;
-  filter: grayscale(0.9);
-  transition: 1.2s;
+  filter: grayscale(90%);
+  transition: 1.5s;
 }
 #s5 .sec05-text{
   /* border: 1px solid #000; */
@@ -577,7 +577,7 @@ button:hover{
   justify-content: center;
   align-items: center;
   text-align: center;
-  line-height: 1500px;
+  line-height: 700px;
 }
 .sec05-text h2{
   font-size: 80px;
