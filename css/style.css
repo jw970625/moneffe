@@ -548,7 +548,6 @@ section h2{
   padding: 10px 20px;
   outline: none;
   border: 1px solid #ddd;
-  
 }
 .content-box textarea::placeholder{
   font-size: 16px;
