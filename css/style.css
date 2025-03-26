@@ -77,7 +77,7 @@ main{
   height: 1000px;
   background: url(../image/moneffe-bg2.jpg) no-repeat center/cover;
   filter: sepia(30%);
-  transition: 0.3s;
+  transition: 0.5s;
 }
 main h1{
   display: flex;
@@ -88,13 +88,15 @@ main h1{
   color: #ffffff;
   margin-bottom: 50px;
   text-shadow: 0 0 15px rgba(0,0,0,0.5);
+  transition: 0.5s;
 }
 main:hover{
-  background-image: url(../image/moneffe-bg1.jpg);
+  background-image: url(../image/moneffe-bg3.jpg);
   filter: grayscale(60%);
 }
 main:hover h1{
-  color: #535353;
+  filter: none;
+  color: #b3462b;
 }
 .search{
   display: flex;
