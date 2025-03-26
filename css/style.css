@@ -172,6 +172,7 @@ section h2{
   justify-content: center;
   perspective: 800px;
   width: 1400px;
+  height: inherit;
 }
 .card{
   position: relative;
@@ -206,12 +207,11 @@ section h2{
   object-fit: cover;
 }
 .brand-text{
-  height: 300px;
-  width: 600px;
-  padding-top: 200px;
+  /* border: 1px solid #000; */
+  height: 600px;
+  width: 500px;
   margin-right: 50px;
-  margin-top: -60px;
-  line-height: 30px;
+  padding-top: 50px;
 }
 .brand-text h3{
   font-size: 50px;
