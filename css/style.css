@@ -4,9 +4,6 @@
 
 html{scroll-behavior: smooth;}
 
-body{
-  background-color: #ffffff;
-}
 /* 탑메뉴 */
 .goto-top a span{
   display: block;
