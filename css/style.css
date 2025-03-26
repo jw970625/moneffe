@@ -454,7 +454,7 @@ section h2{
 .container:hover .overlay{display: none;}
 
 .sec04{
-  border: 1px solid #000;
+  /* border: 1px solid #000; */
   background-color: #ffffff;
   width: 100%;
   height: 1200px;
